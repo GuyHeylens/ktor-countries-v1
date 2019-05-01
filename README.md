@@ -1,6 +1,6 @@
 # Server side development with ktor and kotlin
 
-This is repo I use in my kotlin talk about ktor for the Belgian Kotlin User Group.
+This is the repo I use in my kotlin talk about ktor for the Belgian Kotlin User Group.
 
 It is a simple web api with room for improvement. Feel free to use this as a guide in your own kotlin talk(s) about ktor.
 
